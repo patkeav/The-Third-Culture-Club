@@ -1,0 +1,9 @@
+/*
+Theme Name: travelify-child
+Description: Child theme for Travelify theme
+Author: Patrick Keaveny
+Template: travelify
+*/
+body.custom-background {
+	background-image: none;
+}

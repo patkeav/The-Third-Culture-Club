@@ -1,0 +1,4 @@
+[12-Jan-2016 22:44:34 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/tertiary/public_html/wp-content/plugins/hello.php on line 60
+[31-Jan-2016 15:02:56 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/tertiary/public_html/wp-content/plugins/hello.php on line 60
+[31-Jan-2016 20:59:56 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/tertiary/public_html/wp-content/plugins/hello.php on line 60
+[20-Feb-2016 05:41:39 America/New_York] PHP Fatal error:  Call to undefined function add_action() in /home/tertiary/public_html/wp-content/plugins/hello.php on line 60
